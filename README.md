@@ -1,0 +1,2 @@
+# SafeGenAI-Benchmarking-Generative-Imputation-against-Adversarial-Sensor-Attacks-in-Industrial-IoT
+SafeGenAI benchmarks how sensor-data repair affects anomaly detection in Industrial IoT systems. It simulates DoS-style missing sensor values on the SWaT dataset, repairs them using Linear Interpolation, MICE, and a Denoising Autoencoder, then evaluates the security impact using Isolation Forest, LOF, and One-Class SVM.
